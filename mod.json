@@ -1,0 +1,11 @@
+{
+    "Name": "SPScoreBoard",
+    "Description": "A Scoreboard for best sniper shot distance !",
+    "Version": "1.0.0",
+    "Authors": ["TheoryWrong"],
+    "HasVeniceEXT": true,
+    "HasWebUI": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
